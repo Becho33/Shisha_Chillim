@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045956525209",
+    "firebase_url": "https://shisha1-90232.firebaseio.com",
+    "project_id": "shisha1-90232",
+    "storage_bucket": "shisha1-90232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045956525209:android:cde95ab240ba559450cc08",
+        "android_client_info": {
+          "package_name": "com.c.shisha_chillim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045956525209-48etd8jtc1eru538et826cbkc2cb826j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuPdBEhxiRjVPYz6aQZ_pegKl2K8nseI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045956525209-48etd8jtc1eru538et826cbkc2cb826j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
